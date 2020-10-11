@@ -1,0 +1,1 @@
+# 1-den-n-ye-kadar-girilen-cift-sayilarin-yazdirilmasi
